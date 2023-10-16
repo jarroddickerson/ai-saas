@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 import { useRouter } from "next/navigation";
 
-import { Card } from "react-bootstrap";
+import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 
 const tools = [
